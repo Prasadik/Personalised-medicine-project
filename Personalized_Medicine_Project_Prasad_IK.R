@@ -36,7 +36,7 @@ gc()      #garbage collection
 test$Class <- -1
 data_full <- rbind(train,test)   #Combine the tables train and test
 rm(train,test)
-gc()      #garbage collection
+gc()      #garbage 
 
 
 #Due to space and time issue I am considering part of the data
