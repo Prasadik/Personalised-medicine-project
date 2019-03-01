@@ -1,13 +1,12 @@
-1.Project_Name: Personalized Medicine: Redefining Cancer Treatment
+1.Project_Name: Sberbank Russian Housing Market
 
-2.Data_Set contains 4 files
-	-test_text
-	-test_variants
-	-training_text
-	-training_variants
+2.Data_Set contains 3 CSV files
+	-train data
+	-test data
+	-macro data:A set of macroeconomic indicators, one for each date.
 
-3.submissionFile file contains the sample output submission file.
+3.sample_submission.csv file contains the sample output submission file.
 
-4.Problem_statement file contains the problem statement of Personalized Medicine: Redefining Cancer Treatment problem.
+4.Problem_statement file contains the problem statement of Sberbank Russian Housing Market problem.
 
-5.Personalized_Medicine_Project_Prasad_IK file contains the project r code.
+5.Russian_Housing_Market_Project file contains the project r code.
